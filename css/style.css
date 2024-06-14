@@ -4,3 +4,25 @@
     box-sizing: border-box;
 }
 
+/*
+UTILITY
+*/
+.layouting-1{
+    height: 75px;
+    border: 2px dashed white;
+}
+
+.layouting-2{
+    height: 100px;
+    border: 2px dashed white;
+}
+
+
+/*
+Styling
+*/
+
+.bg-boolean-blu{
+    background-color: #000D30;
+}
+
