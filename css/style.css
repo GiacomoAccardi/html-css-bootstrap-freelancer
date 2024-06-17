@@ -37,3 +37,17 @@ Styling
 .user-section img{
     width: 20%
 }
+
+.star{
+    font-size: 38pt;
+}
+
+.star::before,
+.star::after{
+    content: '';
+    width: 100px;
+    height: 3px;
+    background-color: white;
+    display:inline-block;
+    vertical-align: middle;
+}
