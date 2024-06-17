@@ -27,10 +27,13 @@ Styling
 }
 
 .bg-bool-azure{
-    background-color: #A1DECF;
+    background-color: #41a088;
 }
-
 
 .bg-blu{
     background-color: #0c3092;
+}
+
+.user-section img{
+    width: 20%
 }
