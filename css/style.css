@@ -81,3 +81,23 @@ Styling
     width: 100%;
     border-radius: 20px;
 }
+
+/*
+ ABOUT Styling
+*/
+
+.about-us .star{
+    font-size: 24pt;
+}
+
+/*
+ Contact Styling
+*/
+
+.underline{
+    border: none;
+    border-bottom: 1px solid grey;
+    padding-bottom: 10px;
+    display: block;
+    width: 100%;
+}
