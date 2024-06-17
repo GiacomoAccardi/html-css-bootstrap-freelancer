@@ -31,7 +31,7 @@ Styling
 }
 
 .bg-blu{
-    background-color: #0c3092;
+    background-color: #354163;
 }
 
 /*
@@ -39,7 +39,7 @@ Styling
 */
 
 .user-section img{
-    width: 20%
+    width: 40%
 }
 
 .star{
@@ -100,4 +100,33 @@ Styling
     padding-bottom: 10px;
     display: block;
     width: 100%;
+}
+
+/*
+ FOOTER Styling
+*/
+
+footer span{
+    color: #41a088;
+}
+
+footer i{
+    font-size: 20pt;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.facebook{
+    padding: 10px 15px;
+}
+
+.facebook{
+    padding: 10px 15px;
+}
+
+.google{
+    padding: 10px 8px;
 }
